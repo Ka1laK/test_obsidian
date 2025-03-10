@@ -3,7 +3,9 @@
 git push origin branch1
 ```
 
-
+#### Plugin Git-Sync
+Simple de usar (pull y push)
+![[Pasted image 20250310180936.png]]
 
 
 ### Plugin Git
