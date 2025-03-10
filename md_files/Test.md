@@ -7,6 +7,11 @@ git push origin branch1
 
 
 ### Plugin Git
+ Clonar 
+ ``` 
+ https://token@github.com/Ka1laK/test_obsidian.git
+ 
+ ```
 #### Auto commits
 ![[Pasted image 20250310170513.png]]
 
